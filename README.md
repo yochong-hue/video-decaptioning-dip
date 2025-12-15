@@ -54,6 +54,10 @@ We evaluate our methods using the **ECCV ChaLearn 2018 LAP Video Decaptioning da
 
 This dataset is used for both testing and validation. Additional self-collected videos are also used to assess robustness under real-world degradations.
 
+- Additional videos
+  https://drive.google.com/drive/folders/1vWarySD58IstVeQ1zAYH8QW7DWbwWNlx?usp=sharing
+  
+
 ---
 
 ## Notes
